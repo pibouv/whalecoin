@@ -1,4 +1,4 @@
-# whalecoin
+# WhaleCoin
 WhaleCoin is a ERC20 token for investors, traders and gamblers.
 
 ERC20 contract: 0x804e26c4eff0bb196b805bdfb5b29ab828cf0b1f
