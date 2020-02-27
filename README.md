@@ -7,6 +7,9 @@ Total Supply: 327,154,880 WHALE
 
 Decimals: 18
 
+Website:
+
+http://www.whaleco.in
 
 Explorer:
 
