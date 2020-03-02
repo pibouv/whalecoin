@@ -37,6 +37,8 @@ https://t.me/whalecoiners
 
 Trading (exchanges) links:
 
+https://uniswap.exchange/swap
+
 https://forkdelta.app/#!/trade/0x804e26c4eff0bb196b805bdfb5b29ab828cf0b1f-ETH
 
 https://mcafeedex.com/?#WHALE-ETH
