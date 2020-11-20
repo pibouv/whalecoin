@@ -4,8 +4,8 @@ WhaleCoin is a ERC20 token for investors, traders and gamblers.
 ERC20 contract: 0x804e26c4eff0bb196b805bdfb5b29ab828cf0b1f
 
 Total Supply: 327,154,880 WHALE
-
 Circulating supply : 135,322,017 WHALE
+Locked supply: 191,832,863 WHALE (in wallet 0x0fb74Abdb0B2C0dF6F1aD65fB86e80E347513ccf)
 
 Decimals: 18
 
@@ -37,7 +37,7 @@ https://t.me/whalecoiners
 
 Trading (exchanges) links:
 
-https://uniswap.exchange/swap
+https://info.uniswap.org/token/0x804e26c4eff0bb196b805bdfb5b29ab828cf0b1f
 
 https://forkdelta.app/#!/trade/0x804e26c4eff0bb196b805bdfb5b29ab828cf0b1f-ETH
 
